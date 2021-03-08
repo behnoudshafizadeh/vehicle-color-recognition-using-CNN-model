@@ -58,7 +58,9 @@ for img in x:
  
 ![Capture1](https://user-images.githubusercontent.com/53394692/110308394-4d087300-8015-11eb-8c65-1f05d6c791d7.PNG)
 
-
+## Contributing
+> this project is bulid by `saeedeh barzegar` and her co-worker `behnoud shafizadeh` in the kharazmi university lab,if you would like to access the full source code and training dataset,contact us via these eamils addresses:
+> `s.barzegar.k@gmail.com` and `behnud.shafizadeh@gmail.com` 
 
 
 
